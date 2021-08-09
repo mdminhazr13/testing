@@ -1,0 +1,2 @@
+# testing
+minhaz -s -test
